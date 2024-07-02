@@ -1,0 +1,20 @@
+- name: Home
+  link: /dtworkshop/index.html
+- name: Topics
+  link: /dtworkshop/index.html#topics
+- name: Call
+  link: /dtworkshop/index.html#call-for-contributions
+- name: Speakers
+  link: /dtworkshop/index.html#speakers
+- name: Schedule
+  link: /dtworkshop/index.html#schedule
+- name: Papers
+  link: /dtworkshop/index.html#papers
+- name: Venue
+  link: /dtworkshop/index.html#venue
+- name: Organizers
+  link: /dtworkshop/index.html#organizers
+- name: Technical Program Committee
+  link: /dtworkshop/index.html#tpc
+- name: Contact
+  link: /dtworkshop/contact.html
