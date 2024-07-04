@@ -127,10 +127,15 @@ body {
 	padding-bottom: 10px;
 	;
   }
+
   a {
 	color: #81bd00;
   }
-  
+
+  a:hover {
+  color: #81bd00;
+  }
+
   p {
 	line-height: 1.8em;
 	-webkit-hyphens: auto;
